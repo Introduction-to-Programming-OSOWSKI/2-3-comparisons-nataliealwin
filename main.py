@@ -21,3 +21,5 @@ def greaterOrEqual(x,y):
 def lessOrEqual(x,y):
     if x <= y:
         return "true"
+    else:
+        return "false"
